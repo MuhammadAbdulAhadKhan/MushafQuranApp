@@ -8,4 +8,4 @@ With its sleek, modern interface, the app ensures an intuitive and engaging user
 As part of continuous development, we are committed to incorporating more features to better meet user needs in future updates.</b></p>
 
 
-![financial](https://github.com/user-attachments/assets/71f2c9cf-25f9-403a-8b75-cbaf201582fd)
+![financial](https://github.com/user-attachments/assets/baefb04f-644f-4985-88b3-1b372ef835a7)
