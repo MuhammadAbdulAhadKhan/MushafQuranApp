@@ -133,12 +133,13 @@ class _OptionsScreenState extends State<OptionsScreen> {
             alignment: Alignment.bottomLeft,
 
             child: Padding(
-              padding: const EdgeInsets.all(20),
+              padding: const EdgeInsets.all(15),
               child: Align(
                 alignment: Alignment.bottomCenter,
                 child: Text(
-                  "Swipe The Card For More Options | ${DateFormat("jms").format(time)}",
-                  style: GoogleFonts.anton(fontSize: 16, color: Colors.white),
+                  // "Swipe The Card For More Options | ${DateFormat("jms").format(time)}",
+                  "Swipe The Card For More Options",
+                  style: GoogleFonts.anton(fontSize: 20, color: Colors.white),
                 ),
               ),
             ),
@@ -176,3 +177,5 @@ class _OptionsScreenState extends State<OptionsScreen> {
     );
   }
 }
+
+

@@ -45,24 +45,25 @@ dependencies:
 
 
 dev_dependencies:
+  flutter_launcher_icons: ^0.14.3
   flutter_test:
     sdk: flutter
-  # flutter_launcher_icons: ^0.14.3
+  
 
 
 
-# flutter_icons:
-#   android: true
-#   ios: true
-#   image_path: "assets/AppLogo.png"
-#   adaptive_icon_background: "#ffffff"
-#   adaptive_icon_foreground: "assets/AppLogo.png"
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/AppLogo.png"
+  adaptive_icon_background: "#FF2F80ED"
+  adaptive_icon_foreground: "assets/AppLogo.png"
 
-#   web:
-#     generate: true
-#     image_path: "assets/AppLogo.png"
-#     background_color: "#hexcode"
-#     theme_color: "#hexcode"
+  web:
+    generate: true
+    image_path: "assets/AppLogo.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
