@@ -6,7 +6,7 @@
 
 ## 📥 Download
 
-### 👉 [Download APK](https://github.com/MuhammadAbdulAhadKhan/MushafQuranApp/releases/download/v1.0.0/mushaf-quran-app-v1.0.apk)
+### 👉 [Download APK](https://github.com/MuhammadAbdulAhadKhan/MushafQuranApp/releases/download/v1.0.0/Download-mushaf-app-release.apk)
 
 ![Download Badge](https://img.shields.io/badge/Download-APK-green)
 
