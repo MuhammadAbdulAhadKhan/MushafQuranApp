@@ -4,11 +4,9 @@
 
 ---
 
-## 📥 Download
+## 📥 Click To Download APK
 
-### 👉 [Download APK](https://github.com/MuhammadAbdulAhadKhan/MushafQuranApp/releases/download/v1.0.0/Download-mushaf-app-release.apk)
-
-[![Download APK](https://img.shields.io/badge/Download-APK-green)](https://github.com/MuhammadAbdulAhadKhan/MushafQuranApp/releases/download/v1.0.0/Download-mushaf-app-release.apk)
+### 👉 [![Download APK](https://img.shields.io/badge/Download-APK-green)](https://github.com/MuhammadAbdulAhadKhan/MushafQuranApp/releases/download/v1.0.0/Download-mushaf-app-release.apk)
 
 > 📱 **Minimum Android:** 6.0 (Marshmallow)  
 > 🗂️ **APK Size:** ~159 MB
