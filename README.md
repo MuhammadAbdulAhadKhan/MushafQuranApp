@@ -1,4 +1,4 @@
-# 📖 Mushaf Quran App – Beta Version 1.0  
+# 📖 Mushaf Quran App – Version 1.0  
 **🗓 Date:** 26-04-2025  
 **👨‍💻 Developed by:** Muhammad Abdul Ahad Khan
 
